@@ -1,0 +1,8 @@
+*.synctex.gz
+*.pdf
+*.log
+*.toc
+*.blg
+*.bbl
+*.aux
+.Rproj.user/*
